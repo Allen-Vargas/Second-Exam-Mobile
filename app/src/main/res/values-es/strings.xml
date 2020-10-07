@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Segundo Examen</string>
+    <string name="txtTittleAddBook">Nuevo Libro</string>
+    <string name="txtTitle">Titulo:</string>
+    <string name="txtPages">Paginas:</string>
+    <string name="txtAuthor">Autorr:</string>
+    <string name="txtEditorial">Editorial:</string>
+    <string name="txtDescription">Descripcion:</string>
+    <string name="txtPhotoURL">Foto URL:</string>
+
+    <string name="hintEdittxtTitle">Ejemplo: Piratas del Caribe</string>
+    <string name="hintEdittxtPages">Ejemplo: 195</string>
+</resources>

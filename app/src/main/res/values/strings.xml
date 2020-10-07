@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Second Exam</string>
+    <string name="txtTittleAddBook">New Book</string>
+    <string name="txtTitle">Title:</string>
+    <string name="txtPages">Pages:</string>
+    <string name="txtAuthor">Author:</string>
+    <string name="txtEditorial">Editorial:</string>
+    <string name="txtDescription">Description:</string>
+    <string name="txtPhotoURL">Photo URL:</string>
+
+    <string name="hintEdittxtTitle">Example: Pirates Of Caribean</string>
+    <string name="hintEdittxtPages">Example: 195</string>
 </resources>
